@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thanapatDSA
+- 👀 I'm interested in something new to solve my problem
+- ❗❗  All repo on this git for my interested also new language, Framework and Other
